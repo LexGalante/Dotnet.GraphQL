@@ -3,3 +3,5 @@
 ################################################################################
 
 /src/Dotnet.GraphQL.Api/obj
+/src/Dotnet.GraphQL.Api/bin/Debug/netcoreapp3.0
+/.vs/Dotnet.GraphQL
